@@ -1,7 +1,7 @@
 #include <HTTPClient.h>
 #include <Sensors.h>
 #include <WiFiManagement.h>
-#include <resources.h>
+#include <Resources.h>
 #include <Env.h>
 
 
