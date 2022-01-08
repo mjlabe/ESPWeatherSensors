@@ -12,6 +12,8 @@ Create `Env.h` file at project root containing:
 
 - SERVER_URI (base URL for endpoint, i.e. `"https://www.example.com"`)
 - SERVER_ROUTE (route of endpoint (i.e. `"/weather"`))
+- SSID
+- PASSWORD
 
 ## Schema
 
